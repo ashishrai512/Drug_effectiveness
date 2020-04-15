@@ -1,4 +1,4 @@
-# drug_effectiveness
+# drug_effectiveness - Hacker Earth
 A new pharmaceutical startup is recently acquired by one of the world's largest MNCs. For the
 acquisition process, the startup is required to tabulate all drugs that they have sold and account for
 each drug's eectiveness. A dedicated team has been assigned the task to analyze all the data. This data
